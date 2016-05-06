@@ -1,0 +1,8 @@
+class RadomName{
+    public static void main(String[] args){
+        String[] str ={"Jason", "Will", "Alex", "Leo"};
+        Random r = new Random();
+        int index = r.nextInt(str.length);
+        System.out.println(str[index]);
+    }   
+}
