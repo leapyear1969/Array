@@ -1,0 +1,12 @@
+DataDemo:
+Data(long time);
+setTime(long time);
+
+
+Data getTime();
+System.currentTimeMills();
+
+
+warm:
+dataformat
+calendar
